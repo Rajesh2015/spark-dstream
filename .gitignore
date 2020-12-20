@@ -1,0 +1,9 @@
+*.class
+*/target/*
+*/checkpoint/*
+*.crc
+bin/
+project/project/
+project/target/
+target/
+build/
